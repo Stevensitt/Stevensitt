@@ -2,6 +2,17 @@ body{
     background-color:red 
 }
 
-img{
-    width: 35%;
+/*img{*/
+/*    width: 35%;*/
+/*}*/
+
+#tennisPicture{
+    height: 605px;
+    width: 500px;
 }
+
+#trump{ 
+    height: 600px;
+     width:  550px;
+}
+
